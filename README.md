@@ -24,6 +24,9 @@ A day-wise collection of Data Structures and Algorithms implemented in C++, cove
 | **Day 14** | Queue — Linked List-based Queue, Priority Queue, Deque |
 | **Day 15** | Sorting Algorithms — Merge Sort, Quick Sort, Analysis of Sorting |
 | **Day 16** | Introduction to Trees — Binary Tree, Tree Traversals (Inorder, Preorder, Postorder) |
+| **Day 17** | This program implements a Circular Linked List in C++ and displays its elements |
+| **Day 18** | This C++ program creates a Binary Search Tree (BST), inserts nodes, and performs inorder, preorder, and postorder traversals |
+| **Day 19** | This program implements a B-Tree in C++ for balanced data insertion and traversal |
 
 ---
 
