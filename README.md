@@ -27,6 +27,9 @@ A day-wise collection of Data Structures and Algorithms implemented in C++, cove
 | **Day 17** | This program implements a Circular Linked List in C++ and displays its elements |
 | **Day 18** | This C++ program creates a Binary Search Tree (BST), inserts nodes, and performs inorder, preorder, and postorder traversals |
 | **Day 19** | This program implements a B-Tree in C++ for balanced data insertion and traversal |
+| **Day 20** | B+ Tree — Leaf node linking, insertion with splitting (leaf & internal), search, and level-wise display |
+| **Day 21** | Graphs — BFS (Breadth-First Search) and DFS (Depth-First Search) traversals using adjacency list |
+| **Day 22** | Shortest Path — Dijkstra's Algorithm for finding the shortest path (e.g., Google Maps-style navigation) |
 
 ---
 
